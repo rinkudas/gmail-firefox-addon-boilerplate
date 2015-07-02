@@ -1,0 +1,9 @@
+{
+  "name": "gmail-firefox-addon-boilerplate",
+  "title": "gmail-firefox-addon-boilerplate",
+  "id": "jid1-vjsLju3fHrlBDw",
+  "description": "a basic add-on to test gmail.js with firefox addon-sdk",
+  "author": "https://github.com/rinkudas",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
