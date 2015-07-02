@@ -1,4 +1,4 @@
-# gmai-firefox-addon-boilerplate
+# gmail-firefox-addon-boilerplate
 **Prerequisites:**
 * [Python](http://www.python.org/) 2.5, 2.6 or 2.7.
 * Firefox.
@@ -33,3 +33,5 @@ Run the following command at prompt:
 If everything is ok it should produce output something like the below line, followed by many lines of usage information:
 
 ```1. Usage: cfx [options] [command]```
+
+
