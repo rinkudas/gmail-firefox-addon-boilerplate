@@ -22,7 +22,7 @@ or If you're a non-Bash user, you should run:
 
 ```1. bash bin/activate```
 
-Your can see a ommand prompt similar to the following:
+Your can see a command prompt similar to the following:
 
 ```1. (addon-sdk)~/your-folder-path/addon-sdk >```
 
